@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PruebasExcelInteropAbrirYCerrarExceles", "PruebasExcelInteropAbrirYCerrarExceles\PruebasExcelInteropAbrirYCerrarExceles.vbproj", "{D18635E4-059F-4DCB-8F33-7BCE893C7B11}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "InterfazUI", "InterfazUI\InterfazUI.vbproj", "{A8E5B4B4-C21A-46F0-B3D9-76CAB237D066}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ExcelAddInLeogatgens", "ExcelAddInLeogatgens\ExcelAddInLeogatgens.vbproj", "{DABFC5DB-AB36-4BCB-B61F-440E0423CC70}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupExcelLeogatgens", "SetupExcelLeogatgens\SetupExcelLeogatgens.vdproj", "{75545B0F-E473-4970-B756-5AAF64CF4329}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ControladorCargaTestLeo", "ControladorCargaTestLeo\ControladorCargaTestLeo.vbproj", "{B23E2221-6DE9-4B7B-8C17-39D908964C03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D18635E4-059F-4DCB-8F33-7BCE893C7B11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D18635E4-059F-4DCB-8F33-7BCE893C7B11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D18635E4-059F-4DCB-8F33-7BCE893C7B11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D18635E4-059F-4DCB-8F33-7BCE893C7B11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8E5B4B4-C21A-46F0-B3D9-76CAB237D066}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8E5B4B4-C21A-46F0-B3D9-76CAB237D066}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8E5B4B4-C21A-46F0-B3D9-76CAB237D066}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8E5B4B4-C21A-46F0-B3D9-76CAB237D066}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DABFC5DB-AB36-4BCB-B61F-440E0423CC70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DABFC5DB-AB36-4BCB-B61F-440E0423CC70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DABFC5DB-AB36-4BCB-B61F-440E0423CC70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DABFC5DB-AB36-4BCB-B61F-440E0423CC70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75545B0F-E473-4970-B756-5AAF64CF4329}.Debug|Any CPU.ActiveCfg = Debug
+		{75545B0F-E473-4970-B756-5AAF64CF4329}.Release|Any CPU.ActiveCfg = Release
+		{B23E2221-6DE9-4B7B-8C17-39D908964C03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B23E2221-6DE9-4B7B-8C17-39D908964C03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B23E2221-6DE9-4B7B-8C17-39D908964C03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B23E2221-6DE9-4B7B-8C17-39D908964C03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EED46E21-BBFA-44C5-9878-81E7DEC9B4BD}
+	EndGlobalSection
+EndGlobal
